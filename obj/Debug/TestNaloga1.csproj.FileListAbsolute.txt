@@ -1,0 +1,8 @@
+C:\Users\amerh\source\repos\TestNaloga1\obj\Debug\TestNaloga1.csproj.AssemblyReference.cache
+C:\Users\amerh\source\repos\TestNaloga1\obj\Debug\TestNaloga1.csproj.SuggestedBindingRedirects.cache
+C:\Users\amerh\source\repos\TestNaloga1\obj\Debug\TestNaloga1.csproj.CoreCompileInputs.cache
+C:\Users\amerh\source\repos\TestNaloga1\bin\Debug\TestNaloga1.exe.config
+C:\Users\amerh\source\repos\TestNaloga1\bin\Debug\TestNaloga1.exe
+C:\Users\amerh\source\repos\TestNaloga1\bin\Debug\TestNaloga1.pdb
+C:\Users\amerh\source\repos\TestNaloga1\obj\Debug\TestNaloga1.exe
+C:\Users\amerh\source\repos\TestNaloga1\obj\Debug\TestNaloga1.pdb
